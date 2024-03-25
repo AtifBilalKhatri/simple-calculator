@@ -31,3 +31,4 @@ else if (answer.operator === "division"){
 else {
     console.log("you use wrong operator");
 }
+console.log ('The end ');
